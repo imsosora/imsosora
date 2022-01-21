@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Sora.
-- My Linux blog: https://zatsuda.wordpress.com/
+👋 Hi, I’m Sora.
 
 <!---
 imsosora/imsosora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
